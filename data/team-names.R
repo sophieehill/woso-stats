@@ -17,7 +17,7 @@ team_names <-
       ),
       guardian_name = c(
         "Arsenal Women",
-        "Manchester Utd Women",
+        "Man Utd Women",
         "Aston Villa Women",
         "Liverpool FC Women",
         "Tottenham Hotspur Women",
