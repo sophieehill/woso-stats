@@ -13,7 +13,8 @@ team_colors <-
         "Leicester City",
         "Everton",
         "Brighton & Hove Albion",
-        "Reading"
+        "Reading",
+        "Birmingham City"
       ),
       color_hex = c(
         "#EF0107",
@@ -27,21 +28,8 @@ team_colors <-
         "#003090",
         "#003399",
         "#0057B8",
-        "#004494"
-      ),
-      color_main = c(
-        "Red",
-        "Red",
-        "Red",
-        "Red",
-        "Blue",
-        "Red",
-        "Blue",
-        "Blue",
-        "Blue",
-        "Blue",
-        "Blue",
-        "Blue"
+        "#004494",
+        "#0000FF"
       )
     ),
     row.names = c(NA,-12L),
