@@ -13,7 +13,8 @@ team_logos <-
         "Leicester City",
         "Everton",
         "Brighton & Hove Albion",
-        "Reading"
+        "Reading",
+        "Birmingham City"
       ),
       team = c(
         "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
@@ -27,7 +28,8 @@ team_logos <-
         "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
         "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
         "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1200px-Brighton_%26_Hove_Albion_logo.svg.png",
-        "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/1200px-Reading_FC.svg.png"
+        "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/1200px-Reading_FC.svg.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/1200px-Birmingham_City_FC_logo.svg.png"
       )
     ),
     row.names = c(NA,-12L),
