@@ -13,7 +13,8 @@ team_names <-
         "Leicester City",
         "Everton",
         "Brighton & Hove Albion",
-        "Reading"
+        "Reading",
+        "Birmingham City"
       ),
       guardian_name = c(
         "Arsenal Women",
@@ -27,8 +28,24 @@ team_names <-
         "Leicester Women",
         "Everton Women",
         "Brighton & Hove Albion Women",
-        "Reading Women"
+        "Reading Women",
+        "Birmingham City Women"
       ),
+      bbc_name = c(
+        "Arsenal",
+        "Man Utd",
+        "Aston Villa",
+        "Liverpool",
+        "Tottenham",
+        "West Ham",
+        "Man City",
+        "Chelsea",
+        "Leicester City",
+        "Everton",
+        "Brighton",
+        "Reading"
+        "B'ham City"
+        ),
       short_name = c(
         "ARS",
         "MUN",
@@ -41,7 +58,8 @@ team_names <-
         "LEI",
         "EVE",
         "BHA",
-        "REA"
+        "REA",
+        "BIR"
       )
     ),
     row.names = c(NA,-12L),
