@@ -1,0 +1,133 @@
+"","match_id","match_date","home_team_name","home_team_id","away_team_name","away_team_id","home_team_goals","away_team_goals"
+"1","58613147","2021-09-26","Manchester United Women","TFBB14501","Chelsea Women","TFBB6275",1,6
+"2","58613140","2021-09-26","Brighton & Hove Albion Women","TFBB9165","Aston Villa Women","TFBB9673",0,1
+"3","58613145","2021-09-26","Tottenham Hotspur Women","TFBB6924","Reading Women","TFBB9669",1,0
+"4","58613143","2021-09-26","West Ham United Women","TFBB636","Leicester City Women","TFBB12162",4,0
+"5","58613139","2021-09-26","Arsenal Women","TFBB6272","Manchester City Women","TFBB9660",5,0
+"6","58606466","2021-09-25","Everton Women","TFBB6277","Birmingham City Women","TFBB6273",3,1
+"7","58451984","2021-09-12","Chelsea Women","TFBB6275","Everton Women","TFBB6277",4,0
+"8","58451985","2021-09-12","Birmingham City Women","TFBB6273","Brighton & Hove Albion Women","TFBB9165",0,5
+"9","58451987","2021-09-12","Leicester City Women","TFBB12162","Manchester United Women","TFBB14501",1,3
+"10","58451983","2021-09-12","Reading Women","TFBB9669","Arsenal Women","TFBB6272",0,4
+"11","58451986","2021-09-12","Manchester City Women","TFBB9660","Tottenham Hotspur Women","TFBB6924",1,2
+"12","58444980","2021-09-11","West Ham United Women","TFBB636","Aston Villa Women","TFBB9673",1,1
+"13","58373001","2021-09-05","Arsenal Women","TFBB6272","Chelsea Women","TFBB6275",3,2
+"14","58373000","2021-09-05","Brighton & Hove Albion Women","TFBB9165","West Ham United Women","TFBB636",2,0
+"15","58366048","2021-09-04","Aston Villa Women","TFBB9673","Leicester City Women","TFBB12162",2,1
+"16","58366049","2021-09-04","Everton Women","TFBB6277","Manchester City Women","TFBB9660",0,4
+"17","58366047","2021-09-04","Tottenham Hotspur Women","TFBB6924","Birmingham City Women","TFBB6273",1,0
+"18","58351961","2021-09-03","Manchester United Women","TFBB14501","Reading Women","TFBB9669",2,0
+"19","58777692","2021-10-10","Chelsea Women","TFBB6275","Leicester City Women","TFBB12162",2,0
+"20","58777693","2021-10-10","Brighton & Hove Albion Women","TFBB9165","Tottenham Hotspur Women","TFBB6924",2,1
+"21","58777695","2021-10-10","Reading Women","TFBB9669","Aston Villa Women","TFBB9673",3,0
+"22","58777694","2021-10-10","Arsenal Women","TFBB6272","Everton Women","TFBB6277",3,0
+"23","58777691","2021-10-10","West Ham United Women","TFBB636","Birmingham City Women","TFBB6273",1,1
+"24","58771055","2021-10-09","Manchester United Women","TFBB14501","Manchester City Women","TFBB9660",2,2
+"25","58667931","2021-10-03","Leicester City Women","TFBB12162","Tottenham Hotspur Women","TFBB6924",0,2
+"26","58667938","2021-10-03","Manchester City Women","TFBB9660","West Ham United Women","TFBB636",0,2
+"27","58667945","2021-10-03","Reading Women","TFBB9669","Everton Women","TFBB6277",0,3
+"28","58667952","2021-10-03","Birmingham City Women","TFBB6273","Manchester United Women","TFBB14501",0,2
+"29","58667959","2021-10-02","Chelsea Women","TFBB6275","Brighton & Hove Albion Women","TFBB9165",3,1
+"30","58667924","2021-10-02","Aston Villa Women","TFBB9673","Arsenal Women","TFBB6272",0,4
+"31","59278591","2021-11-21","Manchester United Women","TFBB14501","Arsenal Women","TFBB6272",0,2
+"32","59278594","2021-11-21","Chelsea Women","TFBB6275","Birmingham City Women","TFBB6273",5,0
+"33","59278596","2021-11-21","Leicester City Women","TFBB12162","Everton Women","TFBB6277",0,1
+"34","59278592","2021-11-21","Reading Women","TFBB9669","Brighton & Hove Albion Women","TFBB9165",2,0
+"35","59278593","2021-11-21","West Ham United Women","TFBB636","Tottenham Hotspur Women","TFBB6924",1,0
+"36","59271429","2021-11-20","Manchester City Women","TFBB9660","Aston Villa Women","TFBB9673",5,0
+"37","59195284","2021-11-14","Everton Women","TFBB6277","Manchester United Women","TFBB14501",1,1
+"38","59195286","2021-11-14","Birmingham City Women","TFBB6273","Aston Villa Women","TFBB9673",0,1
+"39","59195287","2021-11-14","Brighton & Hove Albion Women","TFBB9165","Leicester City Women","TFBB12162",1,0
+"40","59195285","2021-11-14","Manchester City Women","TFBB9660","Chelsea Women","TFBB6275",0,4
+"41","59195288","2021-11-14","West Ham United Women","TFBB636","Reading Women","TFBB9669",2,2
+"42","59187540","2021-11-13","Tottenham Hotspur Women","TFBB6924","Arsenal Women","TFBB6272",1,1
+"43","59107378","2021-11-07","Tottenham Hotspur Women","TFBB6924","Manchester United Women","TFBB14501",1,1
+"44","59107379","2021-11-07","Birmingham City Women","TFBB6273","Reading Women","TFBB9669",0,3
+"45","59107382","2021-11-07","Leicester City Women","TFBB12162","Manchester City Women","TFBB9660",1,4
+"46","59107381","2021-11-07","Arsenal Women","TFBB6272","West Ham United Women","TFBB636",4,0
+"47","59099948","2021-11-06","Aston Villa Women","TFBB9673","Chelsea Women","TFBB6275",0,1
+"48","59099947","2021-11-06","Everton Women","TFBB6277","Brighton & Hove Albion Women","TFBB9165",0,1
+"49","59625560","2021-12-19","Manchester United Women","TFBB14501","Aston Villa Women","TFBB9673",5,0
+"50","59625559","2021-12-19","Leicester City Women","TFBB12162","Birmingham City Women","TFBB6273",2,0
+"51","59625558","2021-12-19","Tottenham Hotspur Women","TFBB6924","Everton Women","TFBB6277",1,0
+"52","59536722","2021-12-12","Brighton & Hove Albion Women","TFBB9165","Manchester United Women","TFBB14501",0,2
+"53","59536721","2021-12-12","Everton Women","TFBB6277","West Ham United Women","TFBB636",1,1
+"54","59536715","2021-12-12","Birmingham City Women","TFBB6273","Manchester City Women","TFBB9660",2,3
+"55","59536716","2021-12-12","Aston Villa Women","TFBB9673","Tottenham Hotspur Women","TFBB6924",1,2
+"56","59536719","2021-12-12","Arsenal Women","TFBB6272","Leicester City Women","TFBB12162",4,0
+"57","59529633","2021-12-11","Reading Women","TFBB9669","Chelsea Women","TFBB6275",1,0
+"58","59625561","2022-01-27","Arsenal Women","TFBB6272","Brighton & Hove Albion Women","TFBB9165",2,1
+"59","59625557","2022-01-26","Chelsea Women","TFBB6275","West Ham United Women","TFBB636",2,0
+"60","60012724","2022-01-23","Manchester United Women","TFBB14501","Tottenham Hotspur Women","TFBB6924",3,0
+"61","60012731","2022-01-23","Brighton & Hove Albion Women","TFBB9165","Chelsea Women","TFBB6275",0,0
+"62","60012727","2022-01-23","Leicester City Women","TFBB12162","Aston Villa Women","TFBB9673",1,2
+"63","60012725","2022-01-23","Reading Women","TFBB9669","Birmingham City Women","TFBB6273",3,2
+"64","60012726","2022-01-23","West Ham United Women","TFBB636","Everton Women","TFBB6277",3,0
+"65","60012732","2022-01-23","Manchester City Women","TFBB9660","Arsenal Women","TFBB6272",1,1
+"66","59925821","2022-01-16","Leicester City Women","TFBB12162","Brighton & Hove Albion Women","TFBB9165",1,0
+"67","59925825","2022-01-16","Tottenham Hotspur Women","TFBB6924","West Ham United Women","TFBB636",1,1
+"68","59918913","2022-01-15","Manchester United Women","TFBB14501","Birmingham City Women","TFBB6273",5,0
+"69","59918911","2022-01-15","Aston Villa Women","TFBB9673","Manchester City Women","TFBB9660",0,3
+"70","59850011","2022-01-09","Brighton & Hove Albion Women","TFBB9165","Manchester City Women","TFBB9660",0,6
+"71","59850010","2022-01-09","Birmingham City Women","TFBB6273","Arsenal Women","TFBB6272",2,0
+"72","59850008","2022-01-09","Reading Women","TFBB9669","Leicester City Women","TFBB12162",1,0
+"73","60276453","2022-02-13","Manchester City Women","TFBB9660","Manchester United Women","TFBB14501",1,0
+"74","60276454","2022-02-13","Everton Women","TFBB6277","Aston Villa Women","TFBB9673",0,2
+"75","60276448","2022-02-13","Birmingham City Women","TFBB6273","Tottenham Hotspur Women","TFBB6924",0,2
+"76","60276452","2022-02-13","Brighton & Hove Albion Women","TFBB9165","Reading Women","TFBB9669",4,1
+"77","60276451","2022-02-13","Leicester City Women","TFBB12162","West Ham United Women","TFBB636",3,0
+"78","60254944","2022-02-11","Chelsea Women","TFBB6275","Arsenal Women","TFBB6272",0,0
+"79","60186291","2022-02-06","Chelsea Women","TFBB6275","Manchester City Women","TFBB9660",1,0
+"80","60186294","2022-02-06","Everton Women","TFBB6277","Reading Women","TFBB9669",1,2
+"81","60186290","2022-02-06","Birmingham City Women","TFBB6273","Leicester City Women","TFBB12162",1,2
+"82","60186299","2022-02-06","Tottenham Hotspur Women","TFBB6924","Brighton & Hove Albion Women","TFBB9165",4,0
+"83","60186302","2022-02-06","Aston Villa Women","TFBB9673","West Ham United Women","TFBB636",1,2
+"84","60178942","2022-02-05","Arsenal Women","TFBB6272","Manchester United Women","TFBB14501",1,1
+"85","60810508","2022-03-27","Manchester United Women","TFBB14501","Everton Women","TFBB6277",3,1
+"86","60810511","2022-03-27","Leicester City Women","TFBB12162","Chelsea Women","TFBB6275",0,9
+"87","60810510","2022-03-27","West Ham United Women","TFBB636","Brighton & Hove Albion Women","TFBB9165",0,2
+"88","60803634","2022-03-26","Aston Villa Women","TFBB9673","Reading Women","TFBB9669",1,1
+"89","60542787","2022-03-23","Manchester City Women","TFBB9660","Everton Women","TFBB6277",4,0
+"90","59925824","2022-03-16","Everton Women","TFBB6277","Chelsea Women","TFBB6275",0,3
+"91","59625562","2022-03-16","Manchester City Women","TFBB9660","Reading Women","TFBB9669",2,0
+"92","59850007","2022-03-16","West Ham United Women","TFBB636","Manchester United Women","TFBB14501",1,1
+"93","60635666","2022-03-13","Tottenham Hotspur Women","TFBB6924","Manchester City Women","TFBB9660",0,1
+"94","60635665","2022-03-13","Chelsea Women","TFBB6275","Aston Villa Women","TFBB9673",1,0
+"95","60635664","2022-03-13","Birmingham City Women","TFBB6273","West Ham United Women","TFBB636",0,1
+"96","60635663","2022-03-13","Brighton & Hove Albion Women","TFBB9165","Arsenal Women","TFBB6272",0,3
+"97","60628373","2022-03-12","Reading Women","TFBB9669","Manchester United Women","TFBB14501",1,3
+"98","60628374","2022-03-12","Everton Women","TFBB6277","Leicester City Women","TFBB12162",3,2
+"99","60597800","2022-03-10","West Ham United Women","TFBB636","Chelsea Women","TFBB6275",1,4
+"100","60542785","2022-03-06","Arsenal Women","TFBB6272","Birmingham City Women","TFBB6273",4,2
+"101","60542789","2022-03-06","Reading Women","TFBB9669","Tottenham Hotspur Women","TFBB6924",0,0
+"102","60534456","2022-03-05","Aston Villa Women","TFBB9673","Brighton & Hove Albion Women","TFBB9165",0,1
+"103","60534455","2022-03-05","Manchester United Women","TFBB14501","Leicester City Women","TFBB12162",4,0
+"104","59844543","2022-03-02","Aston Villa Women","TFBB9673","Everton Women","TFBB6277",0,1
+"105","59925826","2022-03-02","Arsenal Women","TFBB6272","Reading Women","TFBB9669",4,0
+"106","61198613","2022-04-30","Manchester City Women","TFBB9660","Brighton & Hove Albion Women","TFBB9165",7,2
+"107","59834649","2022-04-28","Chelsea Women","TFBB6275","Tottenham Hotspur Women","TFBB6924",2,1
+"108","61131332","2022-04-24","Manchester City Women","TFBB9660","Leicester City Women","TFBB12162",4,0
+"109","61131336","2022-04-24","Reading Women","TFBB9669","West Ham United Women","TFBB636",1,2
+"110","61131328","2022-04-24","Tottenham Hotspur Women","TFBB6924","Chelsea Women","TFBB6275",1,3
+"111","61131330","2022-04-24","Aston Villa Women","TFBB9673","Manchester United Women","TFBB14501",0,0
+"112","61131329","2022-04-24","Everton Women","TFBB6277","Arsenal Women","TFBB6272",0,3
+"113","61125037","2022-04-23","Brighton & Hove Albion Women","TFBB9165","Birmingham City Women","TFBB6273",1,3
+"114","60890364","2022-04-03","Manchester United Women","TFBB14501","Brighton & Hove Albion Women","TFBB9165",1,0
+"115","60890362","2022-04-03","Leicester City Women","TFBB12162","Arsenal Women","TFBB6272",0,5
+"116","60890365","2022-04-03","Tottenham Hotspur Women","TFBB6924","Aston Villa Women","TFBB9673",0,1
+"117","60890363","2022-04-03","Chelsea Women","TFBB6275","Reading Women","TFBB9669",5,0
+"118","60883926","2022-04-02","West Ham United Women","TFBB636","Manchester City Women","TFBB9660",0,2
+"119","60870039","2022-04-01","Birmingham City Women","TFBB6273","Everton Women","TFBB6277",0,0
+"120","61288395","2022-05-08","Aston Villa Women","TFBB9673","Birmingham City Women","TFBB6273",0,1
+"121","61288396","2022-05-08","Brighton & Hove Albion Women","TFBB9165","Everton Women","TFBB6277",1,1
+"122","61288394","2022-05-08","Chelsea Women","TFBB6275","Manchester United Women","TFBB14501",4,2
+"123","61288399","2022-05-08","Reading Women","TFBB9669","Manchester City Women","TFBB9660",0,4
+"124","61288393","2022-05-08","Tottenham Hotspur Women","TFBB6924","Leicester City Women","TFBB12162",1,0
+"125","61288397","2022-05-08","West Ham United Women","TFBB636","Arsenal Women","TFBB6272",0,2
+"126","60810509","2022-05-04","Manchester City Women","TFBB9660","Birmingham City Women","TFBB6273",6,0
+"127","60803627","2022-05-04","Arsenal Women","TFBB6272","Tottenham Hotspur Women","TFBB6924",3,0
+"128","61205804","2022-05-01","Manchester United Women","TFBB14501","West Ham United Women","TFBB636",3,0
+"129","61205806","2022-05-01","Leicester City Women","TFBB12162","Reading Women","TFBB9669",0,0
+"130","61205803","2022-05-01","Arsenal Women","TFBB6272","Aston Villa Women","TFBB9673",7,0
+"131","61205805","2022-05-01","Birmingham City Women","TFBB6273","Chelsea Women","TFBB6275",0,1
+"132","61205807","2022-05-01","Everton Women","TFBB6277","Tottenham Hotspur Women","TFBB6924",2,2
